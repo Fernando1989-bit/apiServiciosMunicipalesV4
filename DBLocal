@@ -1,0 +1,14 @@
+{
+  "ids": {
+    "Usuario": 3,
+    "Servicio": 8
+  },
+  "models": {
+    "Usuario": {
+      "2": "{\"nombreUsuario\":\"narez\",\"contrasena\":\"4321\",\"idUsuario\":2}"
+    },
+    "Servicio": {
+      "7": "{\"idServicio\":7,\"nombreServicio\":\"arrendamiento\",\"montoServicio\":325}"
+    }
+  }
+}
